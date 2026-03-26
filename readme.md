@@ -1,3 +1,3 @@
 ## Hello, Git!
 
--In the main branch
+-From the feature branch
